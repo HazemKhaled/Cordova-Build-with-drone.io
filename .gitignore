@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# Node
+npm-debug.log
+/node_modules
+
+platforms
+
+# res
+resources/signing
