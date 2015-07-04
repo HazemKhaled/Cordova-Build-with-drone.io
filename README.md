@@ -1,5 +1,5 @@
-# Drone.io
-https://drone.io/github.com/HazemKhaled/Cordova-Build-with-drone.io
+# [Drone.io](http://Drone.io) - Android only
+[Check Example](https://drone.io/github.com/HazemKhaled/Cordova-Build-with-drone.io)
 
 ## Environment Variables 
 ```
