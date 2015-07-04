@@ -23,3 +23,8 @@ cordova platform add android
 # Build you app
 cordova build android --release
 ```
+
+# Todos
+* Upload build files on github release or Dropbox
+* Build iOS
+* Run test cases
